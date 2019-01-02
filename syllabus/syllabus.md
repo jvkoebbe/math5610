@@ -9,9 +9,9 @@
 **Instructor:** | Joe Koebbe
 **Office:** | ANSC 209
 **Github Page**: | [Math 5610 github link](https://github.com/jvkoebbe/math5610/README)
-**email:** | [joe.koebbe@usu.edu](mailto:joe.koebbe@usu.edu)
 **web page:** | [Department Web Page](http:www.math.usu.edu/~koebbe)
 **Phone No:** | 435-797-2825
+**email:** | [joe.koebbe@usu.edu](mailto:joe.koebbe@usu.edu)
 
 **Contact Comments:** You can contact your instructor in a number of ways. Email is, by far, the most reliable method of
 contacting your instructor. If you call the number above, you may end up on the campus voicemail system. Note that messages on
