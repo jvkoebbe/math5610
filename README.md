@@ -10,4 +10,4 @@ Quick Links:
 2. [Department of Mathematics and Statistics](http://www.math.usu.edu/
 3. [Github](http://github.com)
 4. [Joe Koebbe](http://www.math.usu.edu/~koebbe)
-5. [Math 4610 Repositry](http://jvkoebbe.github.com/math4610)
+5. [Math 4610 Repositry](http://github.com/jvkoebbe/math4610)
