@@ -16,4 +16,4 @@ Quick Links:
 Links for content for Math 5610:
 
 1. [Math 5610 Repositry](https://github.com/jvkoebbe/math5610)
-2. [Math 5610 Syllabus](https://github.com/jvkoebbe/math5610/syllabus)
+2. [Math 5610 Syllabus](https://jvkoebbe.github.io/math5610)
