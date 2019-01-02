@@ -8,7 +8,7 @@
 ---------------- | ----
 **Instructor:** | Joe Koebbe
 **Office:** | ANSC 209
-**Github Page**: | [github link](https://github.com/jvkoebbe/math5610/README)
+**Github Page**: | [github link](https://github.com/jvkoebbe/math5610/README.md)
 **email:** | [joe.koebbe@usu.edu](mailto:joe.koebbe@usu.edu)
 **web page:** | [Department Web Page](http:www.math.usu.edu/~koebbe)
 **Phone No:** | 435-797-2825
