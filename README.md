@@ -11,9 +11,9 @@ Quick Links:
 2. [Department of Mathematics and Statistics](http://www.math.usu.edu/)
 3. [Github](https://github.com)
 4. [Joe Koebbe](http://www.math.usu.edu/~koebbe)
-5. [Math 4610 Repositry](https://github.com/jvkoebbe/math4610)
+5. [Math 4610 Repositry](https://jvkoebbe.github.io/math4610)
 
 Links for content for Math 5610:
 
-1. [Math 5610 Repositry](https://github.com/jvkoebbe/math5610)
+1. [Math 5610 Repositry](https://jvkoebbe.github.io/math5610)
 2. [Math 5610 Syllabus](https://jvkoebbe.github.io/math5610)
