@@ -1,0 +1,18 @@
+body {
+     font-family:        Tacoma, Arial, serif;
+     font-size:                         0.8em;
+     width:                             680px;
+     background-color:                #ffff55;
+     background-image:     url(hwbckgrnd.jpg);
+    }
+h1 {
+   font-family:          Tacoma, Arial, serif;
+   font-size:                           1.2em;
+   color:                               black;
+   }
+li {
+   margin-left:                           0px;
+   margin-right:                          0px;
+   margin-top:                           15px;
+   margin-bottom:                        15px;
+}
