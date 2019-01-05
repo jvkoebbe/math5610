@@ -5,7 +5,7 @@ The following is a link to a set of problems that represent computational skills
 asked to complete these problems as a means of testing prerequisite skills. The intent of this assignment is to make sure students have
 the best possible chance of success in the course.
 
-1. [Prerequisite Skills Homework](https://jvkoebbe.github.io/math4610/homework/prerequisite_problems)
+1. [Prerequisite Skills Homework](https://jvkoebbe.github.io/math5610/homework/prerequisite_problems)
 
 # Homework Sets and Computational Projects:
 
@@ -13,12 +13,12 @@ The following list provides links to the homework assignments to be completed by
 Computational Mathematics. The problem sets are geared to a one semester course. Due dates for all homework and projects are
 set by the instructor for the semester. If you have questions, contact the instructor for the course you are taking.
 
-1. [Homework 1](https://jvkoebbe.github.io/math4610/homework/homework1)
-2. [Homework 2](https://jvkoebbe.github.io/math4610/homework/homework2)
-3. [Homework 3](https://jvkoebbe.github.io/math4610/homework/homework3)
-4. [Homework 4](https://jvkoebbe.github.io/math4610/homework/homework4)
-5. [Homework 5](https://jvkoebbe.github.io/math4610/homework/homework5)
-6. [Homework 6](https://jvkoebbe.github.io/math4610/homework/homework6)
+1. [Homework 1](https://jvkoebbe.github.io/math5610/homework/homework1)
+2. [Homework 2](https://jvkoebbe.github.io/math5610/homework/homework2)
+3. [Homework 3](https://jvkoebbe.github.io/math5610/homework/homework3)
+4. [Homework 4](https://jvkoebbe.github.io/math5610/homework/homework4)
+5. [Homework 5](https://jvkoebbe.github.io/math5610/homework/homework5)
+6. [Homework 6](https://jvkoebbe.github.io/math5610/homework/homework6)
 
 # Presentations and Talks from Invited Lectures:
 
@@ -28,7 +28,7 @@ have been exported to pdf when necessary.
 
 ## Fall Semester 2018:
 
-1. [title](https://jvkoebbe.github.io/math4610/homework/jiazhao.pdf)
+1. [title](https://jvkoebbe.github.io/math5610/homework/jiazhao.pdf)
 
 # Other Homework information and links:
 
