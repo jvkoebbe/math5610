@@ -10,7 +10,7 @@ Quick Links:
 1. [USU](http://www.usu.edu/)
 2. [Department of Mathematics and Statistics](http://www.math.usu.edu/)
 3. [Github](https://github.com)
-4. [Joe Koebbe](http://www.math.usu.edu/~koebbe)
+4. [Joe Koebbe's Web Site](http://www.math.usu.edu/~koebbe)
 5. [Joe Koebbe's Repositories](https://jvkoebbe.github.io/)
 6. [Math 4610 Repositry](https://jvkoebbe.github.io/math4610)
 
