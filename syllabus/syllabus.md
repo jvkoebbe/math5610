@@ -22,7 +22,7 @@ course.
 ### Course Description
 
 The following is a current version of the course description for 
-[Math 4610 Fundamentals of Computational Mathematics](https://jvkoebbe.github.io/math4610/main). The description will likely
+[Math 5610 Fundamentals of Computational Mathematics](https://jvkoebbe.github.io/math5610/syllabus/). The description will likely
 change from time to time and this information may change. The current description is from the course as of Fall Semester 2018.
 The official course description can be found on the [USU](http://www.usu.edu/) Course Catalog page.
 
@@ -30,7 +30,7 @@ The official course description can be found on the [USU](http://www.usu.edu/) C
 >> mathematics and problem solving, including:  truncation and round-off error, algorithms to find solutions of nonlinear 
 >> equations, numerical solution of linear systems by direct and iterative approaches, interpolation methods, numerical 
 >> differentiation and quadrature rules. Prerequisite/Restriction: (1) MATH 1220, MATH 2250, or MATH 2270 with a C- or better 
->> **and** (2) the bility to program with a high-level computer language (C/C++, Python, Fortran)
+>> **and** (2) the ability to program with a high-level computer language (C/C++, Python, Fortran)
 
 ### Textbook:
 
