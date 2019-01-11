@@ -9,7 +9,7 @@ with in the first couple of weeks of the course. These are listed below.
 
 
 1. [Math 5610 Syllabus](http://www.math.usu.edu/~koebbe/teaching/courses/math5610/syllabus/syllabus.pdf)
-2. [Math 5610 Syllabus](https://jvkoebbe.github.io/math5610)
+2. [Math 5610 Syllabus](https://jvkoebbe.github.io/math5610/homework/README)
 
 
 ###  Other Useful Links:
