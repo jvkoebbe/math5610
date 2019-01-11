@@ -1,12 +1,3 @@
-# Prerequisite Problems:
-
-The following is a link to a set of problems that represent computational skills students must know before taking a course like Math
-4610. These problems should be relatively easy for a student who has completed the prerequisite courses for Math 4610. Students may be
-asked to complete these problems as a means of testing prerequisite skills. The intent of this assignment is to make sure students have
-the best possible chance of success in the course.
-
-1. [Prerequisite Skills Homework](https://jvkoebbe.github.io/math5610/homework/prerequisite_problems)
-
 # Homework Sets and Computational Projects:
 
 The following list provides links to the homework assignments to be completed by students in Math 4610 Fundamentals of
@@ -26,7 +17,7 @@ Over the past few semesters, faculty from the USU campus have been invited to ta
 class time in Math 4610. The following provide links to slides that the speakers have used during their lectures. Note that the slides
 have been exported to pdf when necessary.
 
-## Fall Semester 2018:
+## Spring Semester 2019:
 
 1. [title](https://jvkoebbe.github.io/math5610/homework/jiazhao.pdf)
 
