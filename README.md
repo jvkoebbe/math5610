@@ -5,7 +5,14 @@ This repository contains materials and links to materials for students in the co
 course is [Joe Koebbe](http://www.math.usu.edu/~koebbe). There are some initial links that students should familiarize themselves
 with in the first couple of weeks of the course. These are listed below.
 
-Quick Links:
+### Links for content for Math 5610:
+
+
+1. [Math 5610 Syllabus](http://www.math.usu.edu/~koebbe/teaching/courses/math5610/syllabus/syllabus.pdf)
+2. [Math 5610 Syllabus](https://jvkoebbe.github.io/math5610)
+
+
+###  Other Useful Links:
 
 1. [USU](http://www.usu.edu/)
 2. [Department of Mathematics and Statistics](http://www.math.usu.edu/)
@@ -13,8 +20,3 @@ Quick Links:
 4. [Joe Koebbe's Web Site](http://www.math.usu.edu/~koebbe)
 5. [Joe Koebbe's Repositories](https://jvkoebbe.github.io/)
 6. [Math 4610 Repositry](https://jvkoebbe.github.io/math4610)
-
-Links for content for Math 5610:
-
-1. [Math 5610 Repositry](https://jvkoebbe.github.io/math5610)
-2. [Math 5610 Syllabus](https://jvkoebbe.github.io/math5610)
