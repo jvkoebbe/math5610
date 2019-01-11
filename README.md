@@ -19,7 +19,7 @@ with in the first couple of weeks of the course. These are listed below.
 ###  Other Useful Links:
 
 1. [USU](http://www.usu.edu/)
-2. [Department of Mathematics and Statistics](http://www.math.usu.edu/
+2. [Department of Mathematics and Statistics](http://www.math.usu.edu/)
 3. [Joe Koebbe's Web Site](http://www.math.usu.edu/~koebbe)
 4. [Joe Koebbe's Repositories](https://github.com/jvkoebbe)
 
