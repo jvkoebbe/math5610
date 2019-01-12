@@ -99,7 +99,7 @@ Your grade in the course will be determined by the following:
    software manual. The exact form of the portfolio will be discussed in class. Based on past experience the formatting will be 
    strict in that the entries in the manual must be formatted using the
    [template](https://jvkoebbe.github.io/math4610/appendix02/softwareManualTemplate)
-   included in the [Math 4610 repository](https://jvkoebbe.github.io/math4610/main). **There will be absolutely no 
+   included in the [Math 4610 repository](https://jvkoebbe.github.io/math4610). **There will be absolutely no 
    exceptions to this requirement!**. Assignments that do not meet the formatting requirements **will NOT be graded**. Part of
    the reason for putting strict is due to the idea that in a job, you will need to follow the company formatting to have your 
    algorithms included in bigger projects.
