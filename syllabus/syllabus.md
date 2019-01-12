@@ -22,25 +22,24 @@ course.
 ### Course Description
 
 The following is a current version of the course description for 
-[Math 5610 Fundamentals of Computational Mathematics](https://jvkoebbe.github.io/math5610/syllabus/). The description will likely
-change from time to time and this information may change. The current description is from the course as of Fall Semester 2018.
-The official course description can be found on the [USU](http://www.usu.edu/) Course Catalog page.
+[Math 5610 Computational Linear Algebra](https://jvkoebbe.github.io/math5610/). The description will likely change from time to time
+and this information may change. The current description is from the course as of Spring Semester 2019. The official course description 
+can be found on the [USU](http://www.usu.edu/) Course Catalog page.
 
->> MATH 4610 - Fundamentals of Computational Mathematics, 3 credits, Course presents fundamental topics common in computational
->> mathematics and problem solving, including:  truncation and round-off error, algorithms to find solutions of nonlinear 
->> equations, numerical solution of linear systems by direct and iterative approaches, interpolation methods, numerical 
->> differentiation and quadrature rules. Prerequisite/Restriction: (1) MATH 1220, MATH 2250, or MATH 2270 with a C- or better 
->> **and** (2) the ability to program with a high-level computer language (C/C++, Python, Fortran)
+>> MATH 5610 - Computational Linear Algebra and Solution of Systems of Equations, 3 credits, Numerical solutions of systems of
+>> linear and nonlinear equations, methods for eigensystems, least squares problems, finding roots of functions and nonlinear
+>> systems, constrained and unconstrained optimization. Prerequisite/Restriction: MATH 2210 with a C- or better
+>> MATH 2250 or MATH 2270 with a C- or better **and** a high-level programming language (C/C++, Python, Java Fortran).
 
 ### Textbook:
 
-The textbook for the course for Fall Semester 2018 is the following:
+The textbook for the course for Spring Semester 2019 is the following:
 
 >> A First Course in Numerical in Numerical Methods. by Uri Ascher and Chen Greif
 
 The book can be found at [SIAM](https://www.siam.org). You can search for the title or authors and then go from there.
 
-### General Comments/Policies for Math 4610:
+### General Comments/Policies for Math 5610:
 
 This course covers the development and implementation of fundamental algorithms in computational mathematics. The methods
 and algorithms presented in the course are not in and of themselves used to approximately solve complicated mathematical 
