@@ -4,12 +4,12 @@ The following list provides links to the homework assignments to be completed by
 Computational Mathematics. The problem sets are geared to a one semester course. Due dates for all homework and projects are
 set by the instructor for the semester. If you have questions, contact the instructor for the course you are taking.
 
-1. [Homework 1](https://jvkoebbe.github.io/math5610/homework/homework1)
-2. [Homework 2](https://jvkoebbe.github.io/math5610/homework/homework2)
-3. [Homework 3](https://jvkoebbe.github.io/math5610/homework/homework3)
-4. [Homework 4](https://jvkoebbe.github.io/math5610/homework/homework4)
-5. [Homework 5](https://jvkoebbe.github.io/math5610/homework/homework5)
-6. [Homework 6](https://jvkoebbe.github.io/math5610/homework/homework6)
+1. [Homework 1](https://jvkoebbe.github.io/math5610/homework/homework_01)
+2. [Homework 2](https://jvkoebbe.github.io/math5610/homework/homework_02)
+3. [Homework 3](https://jvkoebbe.github.io/math5610/homework/homework_03)
+4. [Homework 4](https://jvkoebbe.github.io/math5610/homework/homework_04)
+5. [Homework 5](https://jvkoebbe.github.io/math5610/homework/homework_05)
+6. [Homework 6](https://jvkoebbe.github.io/math5610/homework/homework_06)
 
 # Presentations and Talks from Invited Lectures:
 
