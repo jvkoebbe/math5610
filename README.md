@@ -11,6 +11,7 @@ with in the first couple of weeks of the course. These are listed below.
 1. [Math 5610 Syllabus](https://jvkoebbe.github.io/math5610/syllabus/syllabus)
            ([pdf download](https://jvkoebbe.github.io/math5610/syllabus/syllabus.pdf))
 2. [Math 5610 Homework Tasks](https://jvkoebbe.github.io/math5610/homework/indexOfHomeworkSets)
+2. [Math 5610 Class Materials/Handouts](https://jvkoebbe.github.io/math5610/classmaterials/indexOfHandouts)
 3. [Math 5610 Software Manual Template](https://jvkoebbe.github.io/math5610/softwareManual/softwareManualTemplate)
       ([download](https://jvkoebbe.github.io/math5610/softwareManual/softwareManualTemplate.md))
 4. [Github Link](https://github.com): You can use this link to set up an account or work on projects/repositories.
