@@ -6,6 +6,6 @@
    
    a. [Matrix Norm Handout](https://jvkoebbe.github.io/math5610/classmaterials/matrixnorm.pdf)
    
-   b. [direct link](https://www.uio.no/studier/emner/matnat/ifi/nedlagte-emner/INF-MAT4350/h09/undervisningsmateriale/lecture7.pdf)
+   b. [link to author site](https://www.uio.no/studier/emner/matnat/ifi/nedlagte-emner/INF-MAT4350/h09/undervisningsmateriale/lecture7.pdf)
    
 2. DLL Handouts - still working on this a bit.
