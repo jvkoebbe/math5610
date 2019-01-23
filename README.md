@@ -11,11 +11,11 @@ with in the first couple of weeks of the course. These are listed below.
 1. [Math 5610 Syllabus](https://jvkoebbe.github.io/math5610/syllabus/syllabus)
            ([pdf download](https://jvkoebbe.github.io/math5610/syllabus/syllabus.pdf))
 2. [Math 5610 Homework Tasks](https://jvkoebbe.github.io/math5610/homework/indexOfHomeworkSets)
-2. [Math 5610 Class Materials/Handouts](https://jvkoebbe.github.io/math5610/classmaterials/indexOfHandouts)
-3. [Math 5610 Software Manual Template](https://jvkoebbe.github.io/math5610/softwareManual/softwareManualTemplate)
+3. [Math 5610 Class Materials/Handouts](https://jvkoebbe.github.io/math5610/classmaterials/indexOfHandouts)
+4. [Math 5610 Software Manual Template](https://jvkoebbe.github.io/math5610/softwareManual/softwareManualTemplate)
       ([download](https://jvkoebbe.github.io/math5610/softwareManual/softwareManualTemplate.md))
-4. [Github Link](https://github.com): You can use this link to set up an account or work on projects/repositories.
-5. [Github IO Link](https://pages.github.com): You can build a repository that formats all of the projects and repositories
+5. [Github Link](https://github.com): You can use this link to set up an account or work on projects/repositories.
+6. [Github IO Link](https://pages.github.com): You can build a repository that formats all of the projects and repositories
    you have created using Jekyll templates that can be chosen in the settings area.
 
 ###  Other Useful Links:
