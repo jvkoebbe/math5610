@@ -39,21 +39,30 @@
          solve a square linear system of equations. Document the method in your software manual.
     </li>
     <hr>
-    <li> Task: Implement the Cholesky factorization method for square matrices. Do not include any pivoting in the algorithm. Document
+    <li> Task: Write a code that will generate a symmetric, positive definite matrix for a given integer, $n$. Make sure that you add
+         an entry to your software manual with a couple of examples. Your examples should be relatively small for your examples, but
+         you should include a large example in the task solution write-up.
+    </li>
+    <hr>
+    <li> Task:  Implement the Cholesky factorization method for square matrices. Do not include any pivoting in the algorithm. Document
          the algorithm in your software manual. Test the code on at least 2 or 3 matrices of different sizes. At least one example
-         should involve a matrix that is bigger than $100\times 100$ in size.
+         should involve a matrix that is bigger than $100\times 100$ in size. Use output from the method you created in the previous
+         task.
     </li>
     <hr>
-    <li> Task: 
+    <li> Task: Write a routine/method that will return an approximate solution of the least squares problem using the normal equation
+         approach. Create an entry in your software manual for the method. Also, make sure you use the Cholesky algorithm that you
+         created in a previous task.
     </li>
     <hr>
-    <li> Task:
+    <li> Task: Implement the QR factorization of a square matrix. Use the Gram-Schmidt process to create the orthogonal vectors for
+         the orthogonal matrix. Document the method in your software manual. Include examples showing the orthogonal matrix and the
+         other factor which should be upper triangular.
     </li>
     <hr>
-    <li> Task: 
-    </li>
-    <hr>
-    <li> Task: 
+    <li> Task: Try out your QR-factorization method from the previous task on the Hilbert matrices of sizes $n=4, 6, 8, 10$. Test to
+         see if the orthogonal matrix is realy orthogonal by multiplying $Q^tQ$ and comparing the result to the identity matrix.
+         Explain the results you obtain.
     </li>
     <hr>
     <li> Task: Implement a method that will return a square diagonally dominant matrix. Document this method in your software manual.
