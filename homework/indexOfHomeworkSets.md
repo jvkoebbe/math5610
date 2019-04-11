@@ -10,6 +10,7 @@ set by the instructor for the semester. If you have questions, contact the instr
 4. [Homework 4](https://jvkoebbe.github.io/math5610/homework/homework_04)
 5. [Homework 5](https://jvkoebbe.github.io/math5610/homework/homework_05)
 6. [Homework 6](https://jvkoebbe.github.io/math5610/homework/homework_06)
+6. [Homework 7](https://jvkoebbe.github.io/math5610/homework/homework_07)
 
 # Presentations and Talks from Invited Lectures:
 
