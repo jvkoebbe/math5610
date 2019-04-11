@@ -1,1 +1,58 @@
-dummy
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Math 5610 Fundamentals of Computational Mathematics Homework</title>
+  <link href="homework.css" rel="stylesheet" type="text/css" />
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+  </script>
+  <script type="text/javascript" async
+    src="https://example.com/MathJax.js?config=TeX-AMS_CHTML">
+  </script>
+  <script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+</head>
+<body>
+  <hr>
+  <h1>
+    Math 5610 Fundamentals of Computational Mathematics: Homework 5 Problems
+  </h1>
+  <hr>
+  <ol type="1">
+    <hr>
+    <li> Task: Compare the results for the Jacobi iteration and Gaussian elimination on matrices that are diagonally dominant.
+         Tabulate the CPU time necessary to complete the iteration to a given number of digits of accuracy. Tabulate results for
+         successfully larger matrices. Is there an intersection for the curves?
+    </li>
+    <hr>
+    <li> Task: Repeat the previous task using the Gauss-Seidel algorithm.
+    </li>
+    <hr>
+    <li> Task: .
+    </li>
+    <hr>
+    <li> Task: 
+    </li>
+    <hr>
+    <li> Task:
+    </li>
+    <hr>
+    <li> Task:
+    </li>
+    <hr>
+    <li> Task: 
+    </li>
+    <hr>
+    <li> Task: 
+    </li>
+    <hr>
+    <li> Task: 
+    </li>
+    <hr>
+    <li> Task: C.
+    </li>
+    <hr>
+  </ol>
+</body>
+</html>
