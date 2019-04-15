@@ -29,28 +29,35 @@
     <li> Task: Repeat the previous task using the Gauss-Seidel algorithm.
     </li>
     <hr>
-    <li> Task: .
+    <li> Task: implement the steepest descent method for solving linear systems of equations $$Ax=b$$. Write up an entry in your
+         software manual.
     </li>
     <hr>
-    <li> Task: 
+    <li> Task: Try out your steepest descent method on Hilbert matrices of size 4, 8, 16, 32. Explain your results.
     </li>
     <hr>
-    <li> Task:
+    <li> Task: Implement the Conjugate Gradient method. Document the algorithm in an entry in your software manual.
     </li>
     <hr>
-    <li> Task:
+    <li> Task: Try out the conjugate gradient method from the previous task on Hilbert matrices of order 4, 8, 16, and 32.
+         Describe the results you obtained.
     </li>
     <hr>
-    <li> Task: 
+    <li> Task: Do an internet search on the use of iterative methods for the solution of linear systems of equations. Provide
+         a list of at least three methods that do not use preconditioning of the system.
     </li>
     <hr>
-    <li> Task: 
+    <li> Task: Look for internet sites that include descriptions of preconditioning of systems of equations. Document at least
+         3 different preconditioning strategies.
     </li>
     <hr>
-    <li> Task: 
+    <li> Task: Compare results on symmetric positive definite linear systems of equations using Jacobi versus the conjugate
+         gradient methods. Disucss the results on systems with at least 500 equations and unknowns.
     </li>
     <hr>
-    <li> Task: C.
+    <li> Task: Describe an algorithm for computing the solution of linear least squares systems using Jacobi iteration.
+         Create an entry in your software manual for your algorihm and an example. You can use one of the examples in the
+         current textbook.
     </li>
     <hr>
   </ol>
