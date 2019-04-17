@@ -21,43 +21,48 @@
   <hr>
   <ol type="1">
     <hr>
-    <li> Task: Compare the results for the Jacobi iteration and Gaussian elimination on matrices that are diagonally dominant.
-         Tabulate the CPU time necessary to complete the iteration to a given number of digits of accuracy. Tabulate results for
-         successfully larger matrices. Is there an intersection for the curves?
+    <li> Task: Implement a code that will approximate the largest eigenvalue of a matrix using the Power Iteration algorithm.
+         Test the code in the Hilbert matrix. Include an entry in your software manual for the algorithm.
     </li>
     <hr>
-    <li> Task: Repeat the previous task using the Gauss-Seidel algorithm.
+    <li> Task: Implement the Inverse Iteration method with shifting to find approximate eigenvalues of a matrix A. Include an
+         entry in your software manual documenting the algorithm. Find an eigenvalue less than the largest for the Hilbert
+         matrix.
     </li>
     <hr>
-    <li> Task: implement the steepest descent method for solving linear systems of equations $$Ax=b$$. Write up an entry in your
-         software manual.
+    <li> Task: Write a code that will compute an approximation of the condition in the 2-norm using your code to produce a
+         largest and smallest eigenvalue of a matrix. Document your algorithm in your software manual. Try the code on a Hilbert
+         matrix.
     </li>
     <hr>
-    <li> Task: Try out your steepest descent method on Hilbert matrices of size 4, 8, 16, 32. Explain your results.
+    <li> Task: Test the code developed above to compute the condition number of the Hilbert matrix as the size of the matrix
+         is increased. Tabulate and/or graph the results from your work.
     </li>
     <hr>
-    <li> Task: Implement the Conjugate Gradient method. Document the algorithm in an entry in your software manual.
+    <li> Task: Write a code that will compute approximations of the smallest and largest eigenvalues. Next subdivide the
+         interval containing the smallest and largest eigenvalues and use the points in the subdivision to shift and locate
+         other eigenvalues. Discuss your results.
     </li>
     <hr>
-    <li> Task: Try out the conjugate gradient method from the previous task on Hilbert matrices of order 4, 8, 16, and 32.
-         Describe the results you obtained.
+    <li> Task: Implement the Raleigh Quotient algorithm for computing approximations for eigenvalues of a matrix. Test the
+         code on a Hilbert matrix and document the code in a software entry manual.
     </li>
     <hr>
-    <li> Task: Do an internet search on the use of iterative methods for the solution of linear systems of equations. Provide
-         a list of at least three methods that do not use preconditioning of the system.
+    <li> Task: Use the Rayleigh Quotient algorthm to compute an approximation for the condition of the matrix. Test your code
+         on a Hilbert matrix of reasonable size. Discuss the results from the work.
     </li>
     <hr>
-    <li> Task: Look for internet sites that include descriptions of preconditioning of systems of equations. Document at least
-         3 different preconditioning strategies.
+    <li> Task: Look for internet sites that estimate the condition number of a matrix. Document the sites and as usual cite
+         the web pages used in your explanation of the information found.
     </li>
     <hr>
-    <li> Task: Compare results on symmetric positive definite linear systems of equations using Jacobi versus the conjugate
-         gradient methods. Disucss the results on systems with at least 500 equations and unknowns.
+    <li> Task: Compare the Inverse Iteration Algorithm and the Rayleigh Quotient Algorithm in terms of the amount of time
+         needed to compute an eigenvalue. Tabulate your results for the two methods.
     </li>
     <hr>
-    <li> Task: Describe an algorithm for computing the solution of linear least squares systems using Jacobi iteration.
-         Create an entry in your software manual for your algorihm and an example. You can use one of the examples in the
-         current textbook.
+    <li> Task: Implement a version of the Inverse Iteration Algorithm that uses Jacobi Iteration to compute solutions of the
+         linear systems of equations. Test this algorithm using a random diagonally dominant matrix. Document the algorithm in
+         your software manual.
     </li>
     <hr>
   </ol>
